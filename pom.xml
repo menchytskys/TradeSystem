@@ -50,7 +50,7 @@
     </build>
 
     <properties>
-        <spring-framework-version>5.0.7.RELEASE</spring-framework-version>
+        <spring-framework-version>5.2.22.RELEASE</spring-framework-version>
         <hikariCpVersion>2.6.1</hikariCpVersion>
         <thymeleaf.version>3.0.11.RELEASE</thymeleaf.version>
         <mysql-connector-java.version>8.0.12</mysql-connector-java.version>
